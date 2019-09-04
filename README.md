@@ -7,3 +7,5 @@ Third commit!
 någo juttuin
 
 testar hemma
+
+Gör ett test hemma med visual studio code.
